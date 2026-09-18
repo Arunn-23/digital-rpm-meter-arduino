@@ -97,7 +97,7 @@ The project report identifies Arduino Nano, IR sensor, LCD with I2C, DC motor, f
 
 The system operates using **infrared pulse detection and pulse counting**.
 
-#Working sequence
+# Working sequence
         ROTATING MOTOR
               │
               ▼
@@ -125,6 +125,9 @@ The system operates using **infrared pulse detection and pulse counting**.
                │
                ▼
           RPM DISPLAY
+
+
+          
 
 🧮 Calculations
 
